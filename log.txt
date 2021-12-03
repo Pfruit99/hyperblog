@@ -1,0 +1,47 @@
+commit b9e471ac42ec3090d3c338e83870ba2dbf1bda8c
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 13:15:39 2021 -0500
+
+    añadido sin el random.txt
+
+commit 1c5af501371d29ce0816640f2e75e5923fe9cef4
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 12:59:23 2021 -0500
+
+    una version agregada en la historia.txt
+
+commit e51bd98fe6ae3831bdc5a7f91e063f81a9e5f2b3
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 12:53:54 2021 -0500
+
+    agregacion de parraro
+
+commit 82cb007eedaec0466c72f23b31040f24cbb26d40
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 12:52:39 2021 -0500
+
+    aqui va el proyecto real
+
+commit fdc8f24e27207f1e5a248af113e0dbbb88b0203e
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 10:21:03 2021 -0500
+
+    cambios en historia.txt otra vez
+
+commit 320db079dd6a000c6a9690313b73639d8e447089
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Fri Dec 3 09:37:38 2021 -0500
+
+    un nuevo archivo
+
+commit 4e3b91fbd6dde2635c654a2f8c0862a54eb3857e
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Wed Dec 1 21:56:01 2021 -0500
+
+    cambios de historia
+
+commit 338457af7cf9a7aec475c15846ee3655a9a88293
+Author: Pfruit99 <mora099999@gmail.com>
+Date:   Wed Dec 1 21:44:24 2021 -0500
+
+    el primer commit de este archivo
