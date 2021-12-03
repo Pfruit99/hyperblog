@@ -8,6 +8,7 @@ body{
     font-size: 15px;
 }
 
+
 #container{
     width: 80%;
     padding: 1cm;
@@ -19,4 +20,21 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+#cabezera{
+    background: wheat;
+    box-shadow: 11px 13px 19px 6px rgb(0,0,0,
+    0.46);
+
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+
+#cabezera #tagline{
+    font-weight: normal;
+    font-size: 0.8cm;
+    padding: 0,0,0,0  1cm;
 }
