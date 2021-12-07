@@ -38,3 +38,10 @@ body{
     font-size: 0.8cm;
     padding: 0,0,0,0  1cm;
 }
+
+#footer{
+    background: #666;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+}
