@@ -11,5 +11,7 @@ En esto se ve:
 * Amor por las buenas practicas 
 * Trucos profesionales del profe
 * Las personalidades de freddy
+* El profe incluye ejemplos en windows, linux y mac
+* Disponible para todos
 
-recordatorio:  **esto es comedia**. Diseñado para ejemplo XD
+recordatorio:  **esto es comed ia**. Diseñado para ejemplo XD
